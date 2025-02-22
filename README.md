@@ -9,5 +9,6 @@ Usa el repositorio HelloGit de la cuenta de Inma para:
     - Haz un merge de la rama "upstream/main" a la rama principal de tu repositorio local.
 6º) Subir cambios a tu repositorio remoto de tu cuenta GitHub.
 7º) Enviar a Inma una pull request solicitando que integre tus cambios en su repositorio original.
+Fin
 
 
